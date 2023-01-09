@@ -1,0 +1,13 @@
+bin/
+obj
+*bin
+obj*
+bin*
+
+
+.vs/
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
